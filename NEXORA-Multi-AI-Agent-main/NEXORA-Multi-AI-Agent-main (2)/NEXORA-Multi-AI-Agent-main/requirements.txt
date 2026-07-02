@@ -1,8 +1,0 @@
-streamlit
-openai
-speechrecognition
-streamlit-mic-recorder
-pydub
-reportlab
-pandas
-numpy
