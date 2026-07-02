@@ -170,7 +170,7 @@ Add screenshots of:
 
 ## Developed By
 
-**Siddhu Srivastava**
+**Siddhi Srivastava**
 
 ---
 
